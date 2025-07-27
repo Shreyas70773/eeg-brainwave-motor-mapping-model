@@ -1,7 +1,7 @@
 # 🧠 EEG Motor Imagery Classification – A Systematic Pipeline Benchmarking Study
 
-## Project Title
-**A Systematic Investigation of EEG Motor Imagery Classification using the BCI Competition IV-2a Dataset**
+## A Systematic Investigation of EEG Motor Imagery Classification using the BCI Competition IV-2a Dataset
+
 
 ## Overview
 This repository presents a comprehensive and methodical exploration of EEG-based motor imagery classification, focused on identifying the most robust and generalizable machine learning pipeline. Using the BCI Competition IV-2a dataset (4-class MI: left hand, right hand, feet, tongue), we benchmarked classical feature extraction methods and deep learning architectures through a Leave-One-Subject-Out Cross-Validation framework.
